@@ -4,6 +4,13 @@ Name: DongGeun YEOM <br/>
 Birth : 2001.12.02 <br/>
 
 # B.S (Undergratuate)
-Sungkyul University - Industrial Management Engineering (2020 - ing) <br/>
+### Sungkyul University - Industrial Management Engineering (2020 - ing) <br/>
+
+GPA : 4.12 / 4.5 <br/>
+Major GPA: 4.42 / 4.5 <br/>
 
 # Master
+x <br/>
+
+# Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
