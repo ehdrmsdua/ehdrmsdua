@@ -12,5 +12,8 @@ Major GPA: 4.42 / 4.5 <br/>
 # Master
 x <br/>
 
+# Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrmsdua)](https://solved.ac/ehdrmsdua/)
+
 # Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
