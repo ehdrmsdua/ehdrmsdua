@@ -14,7 +14,9 @@ x <br/>
 
 # Baekjoon
 <div align=center>
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrmsdua)](https://solved.ac/ehdrmsdua/)
+  
 </div>
 
 # Tech Stack
