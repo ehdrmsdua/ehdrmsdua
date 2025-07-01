@@ -7,8 +7,8 @@ __Birth :__ 2001.12.02 <br/>
 ### Sungkyul University - Industrial Management Engineering (2020 - ing) <br/>
 For (3-2) <br/>
 <br/>
-__GPA :__ 4.18 / 4.5 <br/>
-__Major GPA :__ 4.43 / 4.5 <br/>
+__GPA :__ 4.21 / 4.5 <br/>
+__Major GPA :__ 4.4 / 4.5 <br/>
 
 # M.S
 x <br/>
