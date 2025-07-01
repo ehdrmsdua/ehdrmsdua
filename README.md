@@ -10,9 +10,6 @@ For (3-2) <br/>
 __GPA :__ 4.21 / 4.5 <br/>
 __Major GPA :__ 4.4 / 4.5 <br/>
 
-# M.S
-x <br/>
-
 # Baekjoon
 <div align=center>
   
