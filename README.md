@@ -18,6 +18,7 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 <br/>
 ## 🏆️ Awards
 |Period|Competition Title|Award|Host|
+|---|---|---|---|---|---|
 |2025.01 - 2025.04|Poster Paper Utilizing Industrial Accident Insurance Panel Data|Showcased|Labor Welfare Research Institute|
 |2024.04 - 2024.05|KSMC Undergraduate|Excellence|Korean Society of Management Consulting|
 |2024.11 - 2024.11|Data Science|Gold|SKU_GBT,Samsung SDS, Data Solution|
