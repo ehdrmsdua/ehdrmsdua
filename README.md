@@ -19,9 +19,9 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 ## 🏆️ Awards
 |Period|Competition Title|Award|Host|
 |---|---|---|---|
-|2025.03 - 06|ICT Award KOREA 2025 University|Encouragement|KOREA Association Information & Science Education|
-|2025.03 - 04|KSIE Undergraduate Project|Encouragement|Korean Society of Industrial and System Engineering|
-|2025.01 - 04|Industrial Accident Poster Paper|First Author|Labor Welfare Research Institute|
-|2024.11 - 11|SKU_GBT Data Science|Gold|SKU_GBT,Samsung SDS, Data Solution|
-|2024.07 - 11|22th Undergraduate Computer Simulation|4th|Korean Simulation Society|
-|2024.04 - 05|KSMC Undergraduate|Excellence|Korean Society of Management Consulting|
+|2025.03 - 2025.06|ICT Award KOREA 2025 University|Encouragement|KOREA Association Information & Science Education|
+|2025.03 - 2025.04|KSIE Undergraduate Project|Encouragement|Korean Society of Industrial and System Engineering|
+|2025.01 - 2025.04|Industrial Accident Poster Paper|First Author|Labor Welfare Research Institute|
+|2024.11 - 2024.11|SKU_GBT Data Science|Gold|SKU_GBT,Samsung SDS, Data Solution|
+|2024.07 - 2024.11|22th Undergraduate Computer Simulation|4th|Korean Simulation Society|
+|2024.04 - 2024.05|KSMC Undergraduate|Excellence|Korean Society of Management Consulting|
