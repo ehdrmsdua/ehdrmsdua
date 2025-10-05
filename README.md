@@ -4,13 +4,13 @@ __Name :__ DongGeun YEOM <br/>
 __Birth :__ 2001.12.02 <br/>
 
 ## 🏃‍➡️ Work Experience
-#### Ineeji - Manufacturing AI/Data Analyst Intern (2025.09 - ing) <br/>
+#### Ineeji - Manufacturing AI/Data Analyst Intern (2025.09 - Present) <br/>
 Project With SK Energy <br/>
 <br/>
 <br/>
 
 ## 🎓 B.S (Undergratuate)
-#### Sungkyul University - Industrial Management Engineering (2020.03 - ing) <br/>
+#### Sungkyul University - Industrial Management Engineering (2020.03 - Present) <br/>
 For (4-1) <br/>
 <br/>
 __GPA :__ 4.21 / 4.5 <br/>
