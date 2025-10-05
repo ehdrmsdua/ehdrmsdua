@@ -21,4 +21,4 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 |------|---|---|---|
 |테스트1|테스트2|테스트3|테스트3|
 |테스트1|테스트2|테스트3|테스트3|
-|2024.04 - 2024.05|Korean Society of Management Consulting Undergraduate Competition|Excellence Award|Korean Society of Management Consulting|
+|2024.04 - 2024.05|KSMC undergraduate competition|Excellence|Korean Society of Management Consulting|
