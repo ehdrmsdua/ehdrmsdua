@@ -4,7 +4,7 @@ __Name :__ DongGeun YEOM <br/>
 __Birth :__ 2001.12.02 <br/>
 
 ## 🏃‍➡️ Work Experience
-#### Ineeji - Manufacturing AI/Data Analyst Internship (2025.09 - ing) <br/>
+#### Ineeji - Manufacturing AI/Data Analyst Intern (2025.09 - ing) <br/>
 Project With SK Energy <br/>
 <br/>
 <br/>
