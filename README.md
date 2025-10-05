@@ -5,7 +5,7 @@ __Birth :__ 2001.12.02 <br/>
 
 ## 🏃‍➡️ Work Experience
 #### Ineeji - AI/Data Analyst Internship (2025.09 - ing) <br/>
-Project With SK Energy
+Project With SK Energy <br/>
 
 ## 🎓 B.S (Undergratuate)
 #### Sungkyul University - Industrial Management Engineering (2020.03 - ing) <br/>
