@@ -20,5 +20,5 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 |Period|Title|Award|Host|
 |------|---|---|---|
 |2024.11 - 2024.11|Data Science Competiton|Gold|SKU_GBT,Samsung SDS, Data Solution|
-|2024.07 - 2024.11|22th Korean Undergraduate Computer Simulation Competition|4th|Korean Simulation Society|
+|2024.07 - 2024.11|22th Undergraduate Computer Simulation Competition|4th|Korean Simulation Society|
 |2024.04 - 2024.05|KSMC Undergraduate Competition|Excellence|Korean Society of Management Consulting|
