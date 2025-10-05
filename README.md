@@ -14,3 +14,11 @@ For (4-1) <br/>
 <br/>
 __GPA :__ 4.21 / 4.5 <br/>
 __Major GPA :__ 4.4 / 4.5 <br/>
+<br/>
+<br/>
+## 🏆️ Awards
+|Period|Title|Award|Host|
+|------|---|---|---|
+|테스트1|테스트2|테스트3|테스트3|
+|테스트1|테스트2|테스트3|테스트3|
+|2024.04 - 2024.05|Korean Society of Management Consulting Undergraduate Competition|Excellence Award|Korean Society of Management Consulting|
