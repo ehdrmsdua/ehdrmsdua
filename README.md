@@ -19,7 +19,7 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 ## 🏆️ Awards
 |Period|Competition Title|Award|Host|
 |---|---|---|---|
-|2025.03 - 2025.06|ICT Award KOREA 2025 Univ|Encouragement|KOREA Association Information & Science Education|
+|2025.03 - 2025.06|ICT Award KOREA 2025 University|Encouragement|KOREA Association Information & Science Education|
 |2025.03 - 2025.04|KSIE Undergraduate Project|Encouragement|Korean Society of Industrial and System Engineering|
 |2025.01 - 2025.04|Industrial Accident Poster Paper Showcase|First Author|Labor Welfare Research Institute|
 |2024.11 - 2024.11|SKU_GBT Data Science|Gold|SKU_GBT,Samsung SDS, Data Solution|
