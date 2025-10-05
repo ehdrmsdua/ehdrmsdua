@@ -19,10 +19,10 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 ## 🏆️ Awards
 |Period|Competition Title|Award|Host|
 |---|---|---|---|
-| <nobr>2025.03 - 2025.06</nobr> | <nobr>ICT Award KOREA 2025 University</nobr> | Encouragement | <nobr>KOREA Association Information & Science Education</nobr> |
-| <nobr>2025.03 - 2025.04</nobr> | <nobr>KSIE Undergraduate Project</nobr> | Encouragement | <nobr>Korean Society of Industrial and System Engineering</nobr> |
-| <nobr>2025.01 - 2025.04</nobr> | <nobr>Industrial Accident Poster Paper</nobr> | First Author | <nobr>Labor Welfare Research Institute</nobr> |
-| <nobr>2024.11 - 2024.11</nobr> | <nobr>SKU_GBT Data Science</nobr> | Gold | <nobr>SKU_GBT, Samsung SDS, Data Solution</nobr> |
-| <nobr>2024.07 - 2024.11</nobr> | <nobr>22th Undergraduate Computer Simulation</nobr> | 4th | <nobr>Korean Simulation Society</nobr> |
-| <nobr>2024.04 - 2024.05</nobr> | <nobr>KSMC Undergraduate</nobr> | Excellence | <nobr>Korean Society of Management Consulting</nobr> |
+| 2025.03–2025.06 | ICT&nbsp;Awards&nbsp;Korea&nbsp;2025&nbsp;—&nbsp;University | Encouragement | Korea&nbsp;Association&nbsp;of&nbsp;Information&nbsp;and&nbsp;Science&nbsp;Education |
+| 2025.03–2025.04 | KSIE&nbsp;Undergraduate&nbsp;Project | Encouragement | Korean&nbsp;Society&nbsp;of&nbsp;Industrial&nbsp;and&nbsp;System&nbsp;Engineering |
+| 2025.01–2025.04 | Industrial&nbsp;Accident&nbsp;Poster&nbsp;Paper | First Author | Labor&nbsp;Welfare&nbsp;Research&nbsp;Institute |
+| 2024.11–2024.11 | SKU_GBT&nbsp;Data&nbsp;Science | Gold | SKU_GBT,&nbsp;Samsung&nbsp;SDS,&nbsp;Data&nbsp;Solution |
+| 2024.07–2024.11 | 22nd&nbsp;Undergraduate&nbsp;Computer&nbsp;Simulation | 4th | Korean&nbsp;Simulation&nbsp;Society |
+| 2024.04–2024.05 | KSMC&nbsp;Undergraduate | Excellence | Korean&nbsp;Society&nbsp;of&nbsp;Management&nbsp;Consulting |
 
