@@ -18,7 +18,7 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 <br/>
 ## 🏆️ Awards
 |Period|Competition Title|Award|Host|
-|---|---|---|---|
+|---|---|:---:|---|
 | 2025.03&nbsp;&#8209;&nbsp;2025.06 | ICT&nbsp;Awards&nbsp;Korea&nbsp;2025&nbsp;&nbsp;University | Encouragement | Korea&nbsp;Association&nbsp;of&nbsp;Information&nbsp;and&nbsp;Science&nbsp;Education |
 | 2025.03&nbsp;&#8209;&nbsp;2025.04 | KSIE&nbsp;Undergraduate&nbsp;Project | Encouragement | Korean&nbsp;Society&nbsp;of&nbsp;Industrial&nbsp;and&nbsp;System&nbsp;Engineering |
 | 2025.01&nbsp;&#8209;&nbsp;2025.04 | Industrial&nbsp;Accident&nbsp;Poster&nbsp;Paper |First&nbsp;Author&nbsp;Showcased| Labor&nbsp;Welfare&nbsp;Research&nbsp;Institute |
