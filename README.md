@@ -7,8 +7,6 @@ __Birth :__ 2001.12.02 <br/>
 #### Ineeji - Manufacturing AI/Data Analyst Intern (2025.09 - Present) <br/>
 Project With SK Energy <br/>
 <br/>
-<br/>
-
 ## 🎓 B.S (Undergratuate)
 #### Sungkyul University - Industrial Management Engineering (2020.03 - Present) <br/>
 For (4-1) <br/>
