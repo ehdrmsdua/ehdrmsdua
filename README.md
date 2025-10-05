@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dong_Geun_YEOM&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dong_Geun_YEOM&fontSize=90)
  
 __Name :__ DongGeun YEOM <br/>
 __Birth :__ 2001.12.02 <br/>
