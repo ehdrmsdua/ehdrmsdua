@@ -18,10 +18,10 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 <br/>
 ## 🏆️ Awards
 |Period|Competition Title|Award|Host|
-|---|---|:---:|---|
+|---|---|---|---|
 | 2025.03&nbsp;&#8209;&nbsp;2025.06 | ICT&nbsp;Awards&nbsp;Korea&nbsp;2025&nbsp;&nbsp;University | Encouragement | Korea&nbsp;Association&nbsp;of&nbsp;Information&nbsp;and&nbsp;Science&nbsp;Education |
 | 2025.03&nbsp;&#8209;&nbsp;2025.04 | KSIE&nbsp;Undergraduate&nbsp;Project | Encouragement | Korean&nbsp;Society&nbsp;of&nbsp;Industrial&nbsp;and&nbsp;System&nbsp;Engineering |
-| 2025.01&nbsp;&#8209;&nbsp;2025.04 | Industrial&nbsp;Accident&nbsp;Poster&nbsp;Paper |First&nbsp;Author&nbsp;Showcased| Labor&nbsp;Welfare&nbsp;Research&nbsp;Institute |
+| 2025.01&nbsp;&#8209;&nbsp;2025.04 | Industrial&nbsp;Accident&nbsp;Poster&nbsp;Paper&nbsp;Showcase |First Author| Labor&nbsp;Welfare&nbsp;Research&nbsp;Institute |
 | 2024.11&nbsp;&#8209;&nbsp;2024.11 | SKU_GBT&nbsp;Data&nbsp;Science | Gold | SKU_GBT,&nbsp;Samsung&nbsp;SDS,&nbsp;Data&nbsp;Solution |
 | 2024.07&nbsp;&#8209;&nbsp;2024.11 | 22nd&nbsp;Undergraduate&nbsp;Computer&nbsp;Simulation | 4th | Korean&nbsp;Simulation&nbsp;Society |
 | 2024.04&nbsp;&#8209;&nbsp;2024.05 | KSMC&nbsp;Undergraduate | Excellence | Korean&nbsp;Society&nbsp;of&nbsp;Management&nbsp;Consulting |
