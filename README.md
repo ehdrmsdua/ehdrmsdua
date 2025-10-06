@@ -5,7 +5,7 @@ __Birth :__ 2001.12.02 <br/>
 
 ## 🏃 Work Experience
 #### INEEJI AI Research Institute - Manufacturing AI/Data Analyst Intern (2025.09 - Present) <br/>
- ▶ Project With SK Energy <br/>
+ Project With SK Energy <br/>
 <br/>
 <br/>
 ## 🎓 B.S (Undergratuate)
