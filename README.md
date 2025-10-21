@@ -29,10 +29,10 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 <br/>
 
 ## 🛠️ Projects 
-|&nbsp;|Period|Title|Role|Link|
+|Core|Period|Title|Role|Link|
 |---|---|---|---|---|
 🌟| 2025.03&nbsp;&#8209;&nbsp;2025.04 | KSIE&nbsp;Undergraduate&nbsp;Project | Team&nbsp;Leader |[🔗](https://github.com/ehdrmsdua/23rd_Undergraduate_Project_Competition_of_the_Korean_Society_of_Industrial_and_Systems_Engineering)|
-| 2025.03&nbsp;&#8209;&nbsp;2025.04 | Another&nbsp;Project | Developer |[🔗](https://github.com/ehdrmsdua/example)|
+&nbsp;| 2025.03&nbsp;&#8209;&nbsp;2025.04 | Another&nbsp;Project | Developer |[🔗](https://github.com/ehdrmsdua/example)|
 
 <br/>
 <br/>
