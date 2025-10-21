@@ -32,3 +32,7 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 |---|---|---|---|
 | 2025.03&nbsp;&#8209;&nbsp;2025.04 | KSIE&nbsp;Undergraduate&nbsp;Project | Korean&nbsp;Society&nbsp;of&nbsp;Industrial&nbsp;and&nbsp;System&nbsp;Engineering |🔗|
 | 2025.03&nbsp;&#8209;&nbsp;2025.04 | KSIE&nbsp;Undergraduate&nbsp;Project | Korean&nbsp;Society&nbsp;of&nbsp;Industrial&nbsp;and&nbsp;System&nbsp;Engineering |🔗|
+<br/>
+<br/>
+
+
