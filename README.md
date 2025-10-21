@@ -48,6 +48,9 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 <br/>
 <br/>
 
+## 🛠️ Projects 
+|<sub>Core</sub>|Period|Title|Role|Link|
+|:---:|---|---|---|---|
 **⭐** | 2025.03&nbsp;&#8209;&nbsp;2025.04 | KSIE&nbsp;Undergraduate&nbsp;Project | Team&nbsp;Leader | <a href="https://github.com/ehdrmsdua/23rd_Undergraduate_Project_Competition_of_the_Korean_Society_of_Industrial_and_Systems_Engineering" target="_blank">🔗</a>  
 **⭐** | 2025.02&nbsp;&#8209;&nbsp;2025.03 | 2025&nbsp;Policy&nbsp;Idea&nbsp;Contest&nbsp;for&nbsp;Public&nbsp;Data&nbsp;Utilization&nbsp;in&nbsp;Dongdaemungu | Leader | <a href="https://github.com/ehdrmsdua/2025_Policy_Idea_Contest_for_Public_Data_Utilization_in_Dongdaemungu" target="_blank">🔗</a>  
 **⭐** | 2024.10&nbsp;&#8209;&nbsp;2024.11 | 2024&nbsp;K&#8209;Artificial&nbsp;Intelligence&nbsp;Manufacturing&nbsp;Competition | Solo | <a href="https://github.com/ehdrmsdua/2024_K-Artificial_Intelligence_Manufacturing_Competition" target="_blank">🔗</a>  
