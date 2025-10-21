@@ -48,3 +48,15 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 <br/>
 <br/>
 
+**⭐** | 2025.03&nbsp;&#8209;&nbsp;2025.04 | KSIE&nbsp;Undergraduate&nbsp;Project | Team&nbsp;Leader | <a href="https://github.com/ehdrmsdua/23rd_Undergraduate_Project_Competition_of_the_Korean_Society_of_Industrial_and_Systems_Engineering" target="_blank">🔗</a>  
+**⭐** | 2025.02&nbsp;&#8209;&nbsp;2025.03 | 2025&nbsp;Policy&nbsp;Idea&nbsp;Contest&nbsp;for&nbsp;Public&nbsp;Data&nbsp;Utilization&nbsp;in&nbsp;Dongdaemungu | Leader | <a href="https://github.com/ehdrmsdua/2025_Policy_Idea_Contest_for_Public_Data_Utilization_in_Dongdaemungu" target="_blank">🔗</a>  
+**⭐** | 2024.10&nbsp;&#8209;&nbsp;2024.11 | 2024&nbsp;K&#8209;Artificial&nbsp;Intelligence&nbsp;Manufacturing&nbsp;Competition | Solo | <a href="https://github.com/ehdrmsdua/2024_K-Artificial_Intelligence_Manufacturing_Competition" target="_blank">🔗</a>  
+**⭐** | 2024.09&nbsp;&#8209;&nbsp;2024.10 | 2024&nbsp;3rd&nbsp;Retail&nbsp;Data&nbsp;Festa | Member | <a href="https://github.com/ehdrmsdua/2024_3rd_Retail_Data_Festa" target="_blank">🔗</a>  
+**⭐** | 2024.06&nbsp;&#8209;&nbsp;2024.09 | Arena&nbsp;Modeling&nbsp;Research&nbsp;on&nbsp;the&nbsp;Korea&nbsp;Army | Research&nbsp;Assistant | <a href="https://github.com/ehdrmsdua/Arena_Modeling_Research_on_the_Korea_Army" target="_blank">🔗</a>  
+**⭐** | 2024.08&nbsp;&#8209;&nbsp;2024.08 | The&nbsp;5th&nbsp;LG&nbsp;Aimers&nbsp;Online&nbsp;Hackathon | Member | <a href="https://github.com/ehdrmsdua/The_5th_LG_Aimers_Online_Hackathon" target="_blank">🔗</a>  
+**⭐** | 2024.06&nbsp;&#8209;&nbsp;2024.08 | 2024&nbsp;Library&nbsp;Data&nbsp;Utilization&nbsp;Contest | Leader | <a href="https://github.com/ehdrmsdua/2024_Library_Data_Utilization_Contest" target="_blank">🔗</a>  
+**⭐** | 2024.05&nbsp;&#8209;&nbsp;2024.07 | Data&nbsp;Analysis&nbsp;Education&nbsp;Volunteer&nbsp;DF | Teacher | <a href="https://github.com/ehdrmsdua/Data_Analysis_Education_Volunteer_DF" target="_blank">🔗</a>  
+**⭐** | 2024.01&nbsp;&#8209;&nbsp;2024.06 | DF&nbsp;Mini&nbsp;Projects | Leader,&nbsp;Member | <a href="https://github.com/ehdrmsdua/DF_Mini_Projects" target="_blank">🔗</a>  
+**⭐** | 2024.03&nbsp;&#8209;&nbsp;2024.04 | 2024&nbsp;Gangseo&nbsp;Big&nbsp;Data&nbsp;Idea&nbsp;Contest | Solo | <a href="https://github.com/ehdrmsdua/2024_Gangseo_Big_Data_Idea_Contest" target="_blank">🔗</a>  
+**⭐** | 2024.02&nbsp;&#8209;&nbsp;2024.02 | 2024&nbsp;Sejong&nbsp;AI&nbsp;Competition | Leader | <a href="https://github.com/ehdrmsdua/2024_Sejong_AI_Competition" target="_blank">🔗</a>  
+**⭐** | 2023.05&nbsp;&#8209;&nbsp;2023.05 | Bitcoin&nbsp;AI&nbsp;Trader | Solo | <a href="https://github.com/ehdrmsdua/Bitcoin_AI_trader" target="_blank">🔗</a>
