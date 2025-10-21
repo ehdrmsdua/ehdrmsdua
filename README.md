@@ -30,5 +30,5 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 ## 🛠️ Projects 
 |Period|Title|Role|Link|
 |---|---|---|---|
-| 2025.03&nbsp;&#8209;&nbsp;2025.04 | KSIE&nbsp;Undergraduate&nbsp;Project | Korean&nbsp;Society&nbsp;of&nbsp;Industrial&nbsp;and&nbsp;System&nbsp;Engineering |[🔗](https://github.com/ehdrmsdua/23rd_Undergraduate_Project_Competition_of_the_Korean_Society_of_Industrial_and_Systems_Engineering)
-| 2025.03&nbsp;&#8209;&nbsp;2025.04 | KSIE&nbsp;Undergraduate&nbsp;Project | Korean&nbsp;Society&nbsp;of&nbsp;Industrial&nbsp;and&nbsp;System&nbsp;Engineering |[🔗](https://github.com/ehdrmsdua/23rd_Undergraduate_Project_Competition_of_the_Korean_Society_of_Industrial_and_Systems_Engineering)
+| 2025.03&nbsp;&#8209;&nbsp;2025.04 | KSIE&nbsp;Undergraduate&nbsp;Project | Korean&nbsp;Society&nbsp;of&nbsp;Industrial&nbsp;and&nbsp;System&nbsp;Engineering |🔗
+| 2025.03&nbsp;&#8209;&nbsp;2025.04 | KSIE&nbsp;Undergraduate&nbsp;Project | Korean&nbsp;Society&nbsp;of&nbsp;Industrial&nbsp;and&nbsp;System&nbsp;Engineering |🔗
