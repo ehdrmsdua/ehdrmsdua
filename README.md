@@ -26,4 +26,4 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 | 2024.07&nbsp;&#8209;&nbsp;2024.11 | 22nd&nbsp;Undergraduate&nbsp;Computer&nbsp;Simulation | 4th | Korean&nbsp;Simulation&nbsp;Society |[🔗](https://github.com/ehdrmsdua/Korean_Simulation_Society_Undergraduate_Competition)
 | 2024.04&nbsp;&#8209;&nbsp;2024.05 | KSMC&nbsp;Undergraduate| Excellence | Korean&nbsp;Society&nbsp;of&nbsp;Management&nbsp;Consulting |[🔗](https://github.com/ehdrmsdua/2024_Society_Of_Management_Consulting_Undergratuate_Contest)
 
-
+<a href="https://example.com" target="_blank">🚀</a>
