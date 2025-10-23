@@ -37,7 +37,7 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 **⭐** | 2024.06&nbsp;&#8209;&nbsp;2024.09 | Arena&nbsp;Modeling&nbsp;Research&nbsp;on&nbsp;the&nbsp;Korea&nbsp;Army | Research&nbsp;Assistant | [🔗](https://github.com/ehdrmsdua/Arena_Modeling_Research_on_the_Korea_Army)  
 &nbsp; | 2024.08&nbsp;&#8209;&nbsp;2024.08 | The&nbsp;5th&nbsp;LG&nbsp;Aimers&nbsp;Online&nbsp;Hackathon | Team&nbsp;Member | [🔗](https://github.com/ehdrmsdua/The_5th_LG_Aimers_Online_Hackathon)  
 &nbsp; | 2024.06&nbsp;&#8209;&nbsp;2024.08 | 2024&nbsp;Library&nbsp;Data&nbsp;Utilization&nbsp;Contest | Team&nbsp;Leader | [🔗](https://github.com/ehdrmsdua/2024_Library_Data_Utilization_Contest)  
-**⭐** | 2024.05&nbsp;&#8209;&nbsp;2024.07 | High&nbsp;School&nbsp;Data&nbsp;Analysis&nbsp;Education&nbsp;Volunteering | Volunteer/Teacher | [🔗](https://github.com/ehdrmsdua/Data_Analysis_Education_Volunteer_DF)  
+**⭐** | 2024.05&nbsp;&#8209;&nbsp;2024.07 | High&nbsp;School&nbsp;Data&nbsp;Analysis&nbsp;Education&nbsp;Volunteer&nbsp;Work | Volunteer/Teacher | [🔗](https://github.com/ehdrmsdua/Data_Analysis_Education_Volunteer_DF)  
 &nbsp;| 2024.01&nbsp;&#8209;&nbsp;2024.06 | DF&nbsp;Mini&nbsp;Projects(3Prj) | Team&nbsp;Leader,&nbsp;Member | [🔗](https://github.com/ehdrmsdua/DF_Mini_Projects)  
 &nbsp; | 2024.03&nbsp;&#8209;&nbsp;2024.04 | 2024&nbsp;Gangseo&nbsp;Big&nbsp;Data&nbsp;Idea&nbsp;Contest | Solo | [🔗](https://github.com/ehdrmsdua/2024_Gangseo_Big_Data_Idea_Contest)  
 &nbsp; | 2024.02&nbsp;&#8209;&nbsp;2024.02 | 2024&nbsp;Sejong&nbsp;AI&nbsp;Competition | Team&nbsp;Leader | [🔗](https://github.com/ehdrmsdua/2024_Sejong_AI_Competition)  
