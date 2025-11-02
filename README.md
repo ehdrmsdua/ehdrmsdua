@@ -41,7 +41,6 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 &nbsp;| 2024.01&nbsp;&#8209;&nbsp;2024.06 | DF&nbsp;Mini&nbsp;Projects(3Prj) | Team&nbsp;Leader,&nbsp;Member | [🔗](https://github.com/ehdrmsdua/DF_Mini_Projects)  
 &nbsp; | 2024.03&nbsp;&#8209;&nbsp;2024.04 | 2024&nbsp;Gangseo&nbsp;Big&nbsp;Data&nbsp;Idea&nbsp;Contest | Solo | [🔗](https://github.com/ehdrmsdua/2024_Gangseo_Big_Data_Idea_Contest)  
 &nbsp; | 2024.02&nbsp;&#8209;&nbsp;2024.02 | 2024&nbsp;Sejong&nbsp;AI&nbsp;Competition | Team&nbsp;Leader | [🔗](https://github.com/ehdrmsdua/2024_Sejong_AI_Competition)  
-&nbsp; | 2023.05&nbsp;&#8209;&nbsp; | Bitcoin&nbsp;AI&nbsp;Trader | Solo | [🔗](https://github.com/ehdrmsdua/Bitcoin_AI_trader)
 
 
 <br/>
