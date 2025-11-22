@@ -9,7 +9,7 @@ __E-Mail :__ ehdrmsdua [at] gmail [dot] com <br/>
 <br/>
 <br/>
 ## 🎓 B.S (Undergratuate)
-#### Sungkyul University - Industrial Management Engineering (2020.03 - Present) <br/>
+#### Sungkyul University(Anyang) - Industrial Management Engineering (2020.03 - Present) <br/>
 For (4-1) <br/>
 <br/>
 __GPA :__ 4.21 / 4.5 <br/>
