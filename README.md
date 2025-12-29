@@ -17,6 +17,7 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 <br/>
 <br/>
 ## 🏆️ Awards
+
 |Period|Competition Title|Award|Host|Link|
 |---|---|---|---|---|
 | 2025.03&nbsp;&#8209;&nbsp;2025.06 | ICT&nbsp;Awards&nbsp;Korea&nbsp;2025&nbsp;University | Encouragement | Korea&nbsp;Association&nbsp;of&nbsp;Information&nbsp;and&nbsp;Science&nbsp;Education |🔗|
