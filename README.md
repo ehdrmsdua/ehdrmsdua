@@ -15,7 +15,6 @@ __Interests :__ Time Series Anomaly Detection, Prediction, ML<br/>
 __GPA :__ 4.24 / 4.5 <br/>
 __Major GPA :__ 4.4 / 4.5 <br/>
 <br/>
-<br/>
 
 ## 🏆️ Awards
 |Period|Competition Title|Award|Host|Link|
