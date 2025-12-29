@@ -11,6 +11,7 @@ __Interests :__ Time Series Anomaly Detection, Prediction, ML<br/>
 <br/>
 ## 🎓 B.S (Undergratuate)
 #### Sungkyul University(Anyang) - Industrial Management Engineering (2020.03 - Present) <br/>
+
 __GPA :__ 4.24 / 4.5 <br/>
 __Major GPA :__ 4.4 / 4.5 <br/>
 <br/>
