@@ -2,10 +2,14 @@
 __Name :__ DongGeun YEOM <br/>
 __Birth :__ 2001.12.02 <br/>
 __E-Mail :__ ehdrmsdua [at] gmail [dot] com <br/>
-__Interests :__ Time Series Anomaly Detection, Prediction, ML<br/>
 <br/>
+
 ## 🎓 M.S (Incoming)
-#### Hanyang University(Seoul) - Industrial Data Engineering [Advanced Manufacturing Lab] (2026.03 -) <br/>
+#### Hanyang University(Seoul) - Industrial Data Engineering [AML] (2026.03 -) <br/>
+<br/>
+
+
+__Research Interests :__ Time Series Anomaly Detection, Prediction, ML<br/>
 
 <br/>
 
