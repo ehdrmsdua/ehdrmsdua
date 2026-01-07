@@ -5,7 +5,7 @@ __E-Mail :__ ehdrmsdua [at] gmail [dot] com <br/>
 __Interests :__ Time Series Anomaly Detection, Prediction, ML<br/>
 <br/>
 ## 🎓 M.S (Incoming)
-#### Hanyang University(Seoul) - Industrial Data Engineering (2026.03 -) <br/>
+#### Hanyang University(Seoul) - Industrial Data Engineering [AML] (2026.03 -) <br/>
 
 <br/>
 
