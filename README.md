@@ -4,17 +4,22 @@ __Birth :__ 2001.12.02 <br/>
 __E-Mail :__ ehdrmsdua [at] gmail [dot] com <br/>
 __Interests :__ Time Series Anomaly Detection, Prediction, ML<br/>
 <br/>
-## 🏃 Work Experience
-#### INEEJI AI Research Institute - Manufacturing AI/Data Analysis Research Intern (2025.09 - 2025.12) <br/>
-• Proj. SK Energy Refining Process Soft Sensor <br/>
+## 🎓 M.S (Incoming)
+#### Hanyang University(Seoul) - Industrial Data Engineering (2026.03 -) <br/>
+
 <br/>
-<br/>
+
 ## 🎓 B.S (Undergratuate)
-#### Sungkyul University(Anyang) - Industrial Management Engineering (2020.03 - Present) <br/>
+#### Sungkyul University(Anyang) - Industrial Management Engineering (2020.03 - 2026.02) <br/>
 <br/>
 
 __GPA :__ 4.24 / 4.5 <br/>
 __Major GPA :__ 4.4 / 4.5 <br/>
+<br/>
+
+## 🏃 Work Experience
+#### INEEJI AI Research Institute - Manufacturing AI/Data Analysis Research Intern (2025.09 - 2025.12) <br/>
+• Proj. SK Energy Refining Process Soft Sensor <br/>
 <br/>
 
 ## 🏆️ Awards
