@@ -4,7 +4,7 @@ __Birth :__ 2001.12.02 <br/>
 __E-Mail :__ ehdrmsdua [at] gmail [dot] com <br/>
 <br/>
 
-## 🎓 M.S (Incoming)
+## 🎓 M.S
 #### Hanyang University(Seoul) - Industrial Data Engineering [AML] (2026.03 -) <br/>
 <br/>
 
@@ -13,7 +13,7 @@ __Research Interests :__ Time Series Anomaly Detection, Prediction, ML<br/>
 
 <br/>
 
-## 🎓 B.S (Undergratuate)
+## 🎓 B.S
 #### Sungkyul University(Anyang) - Industrial Management Engineering (2020.03 - 2026.02) <br/>
 <br/>
 
