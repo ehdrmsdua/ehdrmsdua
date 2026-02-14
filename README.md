@@ -5,7 +5,8 @@ __E-Mail :__ ehdrmsdua [at] gmail [dot] com <br/>
 <br/>
 
 ## 🎓 M.S
-#### Hanyang University(Seoul) - Industrial Data Engineering [AML] (2026.03 -) <br/>
+#### Hanyang University(Seoul) - Industrial Data Engineering [AML] [🔗](https://aml.hanyang.ac.kr/home) (2026.03 -)
+
 <br/>
 
 
