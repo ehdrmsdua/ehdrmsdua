@@ -30,7 +30,7 @@ __Major GPA :__ 4.4 / 4.5 <br/>
 ## 🏆️ Awards
 |Period|Competition Title|Award|Host|Link|
 |---|---|---|---|---|
-| <div align="center">2026.06</div>  | AI&nbsp;Seoul&nbsp;Tech&nbsp;Fellowship | Selected | Seoul&nbsp;Future&nbsp;Talent&nbsp;Foundation ||
+| <div align="center">2026.06</div>  | AI&nbsp;Seoul&nbsp;Tech&nbsp;Fellowship | KRW 20M | Seoul&nbsp;Future&nbsp;Talent&nbsp;Foundation ||
 | 2025.03&nbsp;&#8209;&nbsp;2025.06 | ICT&nbsp;Awards&nbsp;Korea&nbsp;2025&nbsp;University | Encouragement | Korea&nbsp;Association&nbsp;of&nbsp;Information&nbsp;and&nbsp;Science&nbsp;Education |🔗|
 | 2025.03&nbsp;&#8209;&nbsp;2025.04 | KSIE&nbsp;Undergraduate&nbsp;Project | Encouragement | Korean&nbsp;Society&nbsp;of&nbsp;Industrial&nbsp;and&nbsp;System&nbsp;Engineering |[🔗](https://github.com/ehdrmsdua/23rd_Undergraduate_Project_Competition_of_the_Korean_Society_of_Industrial_and_Systems_Engineering)|
 | 2025.01&nbsp;&#8209;&nbsp;2025.04 | Industrial&nbsp;Accident&nbsp;Poster&nbsp;Paper&nbsp;Showcase |First Author| Labor&nbsp;Welfare&nbsp;Research&nbsp;Institute |[🔗](https://github.com/ehdrmsdua/2025_Poster_Paper_Competition_Utilizing_Industrial_Accident_Insurance_Panel_Data)|
